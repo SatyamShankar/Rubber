@@ -1,1 +1,2 @@
-# Rubber
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
